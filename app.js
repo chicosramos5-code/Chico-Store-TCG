@@ -24,7 +24,7 @@ const COLS = {
   receber:    ['id', 'descricao', 'contatoId', 'categoria', 'vencimento', 'valor', 'status', 'pagoEm', 'valorPago', 'origem', 'origemId', 'obs', 'criadoEm'],
 };
 
-const APP_VERSAO = '1.0';
+const APP_VERSAO = '1.0.1';
 const JAMBLE_DIAS = 20;   // prazo médio fixo de repasse da Jamble
 const APP_DATA_VERSAO = '01/10/2026';
 const LS_DATA = 'chico_erp_data_v1';
